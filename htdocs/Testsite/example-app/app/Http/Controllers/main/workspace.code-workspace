@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../../Users/yantokaruk/Desktop/site_resume"
+		},
+		{
+			"path": "../../../../../.."
+		},
+		{
+			"path": "../../../../../../../../../Users/yantokaruk/Projects/project1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"iosfwd": "cpp",
+			"ostream": "cpp",
+			"utility": "cpp",
+			"map": "cpp",
+			"memory": "cpp",
+			"ios": "cpp",
+			"__node_handle": "cpp",
+			"list": "cpp",
+			"istream": "cpp",
+			"__nullptr": "cpp",
+			"stack": "cpp",
+			"algorithm": "cpp",
+			"string": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
